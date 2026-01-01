@@ -2,7 +2,7 @@ package a_easy;
 
 import java.util.Arrays;
 
-public class b_344_ReverseString {
+public class b_L344_ReverseString {
     public static void main(String[] args) {
         char[] s = {'h', 'e', 'l', 'l', 'o'};
         reverseString(s);

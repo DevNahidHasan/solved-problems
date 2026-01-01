@@ -1,6 +1,6 @@
 package a_easy;
 
-public class a_704_BinarySearch {
+public class a_L704_BinarySearch {
 
     public static void main(String[] args) {
         int[] nums = {-1,0,3,5,9,12};
