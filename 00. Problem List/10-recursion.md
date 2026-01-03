@@ -8,8 +8,8 @@
 
 -   [a - L704 - Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode` [✅ done]
 -   [b - L344 - Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode` [✅ done]
--   [c - L509 - Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
--   [d - Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
+-   [c - L509 - Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode` [✅ done]
+-   [d - L231 - Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`[✅ done]
 -   [e - Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 -   [f - Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
 -   [g - Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
