@@ -1,3 +1,6 @@
+//[d - Leetcode 231 - Power of Two]
+//Link - (https://leetcode.com/problems/power-of-two/)
+
 package a_easy;
 
 public class d_L231_PowerOfTwo {

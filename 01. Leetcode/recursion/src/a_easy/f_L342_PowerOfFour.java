@@ -1,3 +1,6 @@
+//[f - Leetcode 342 - Power of Four]
+//Link - (https://leetcode.com/problems/power-of-four/)
+
 package a_easy;
 
 public class f_L342_PowerOfFour {

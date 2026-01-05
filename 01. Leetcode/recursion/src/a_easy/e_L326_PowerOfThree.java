@@ -1,3 +1,6 @@
+//[e - Leetcode 326 - Power of Three]
+//Link - (https://leetcode.com/problems/power-of-three/)
+
 package a_easy;
 
 public class e_L326_PowerOfThree {
