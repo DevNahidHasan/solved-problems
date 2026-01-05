@@ -60,31 +60,36 @@
 -   [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
 -   [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 -   [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
--   [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
--   [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
--   [Divisible Subset](https://www.codechef.com/problems/DIVSUBS) `Codechef`
 -   [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
 -   [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
 -   [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
 -   [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 -   [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 -   [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
--   [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 -   [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
 -   [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 -   [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 -   [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 -   [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
+-   [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
+-   [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode` 
+-   [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- 
+- 
+-
+-   [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 -   [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
 -   [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
--   [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
 -   [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
 -   [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
--   [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
 -   [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/) `GFG`
 -   [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
 -   [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
--   [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+-
+-
+-   
+-   [Divisible Subset](https://www.codechef.com/problems/DIVSUBS) `Codechef`
+-   [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)`HackerRank`
 
 ## Hard
 
