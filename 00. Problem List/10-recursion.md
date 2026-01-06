@@ -54,11 +54,11 @@
 -   [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 -   [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 -   [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
--   [d - L1545 - Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
+-   [d - L1545 - Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`[brute - ✅ done, need to learn the optimized way ]
 -   [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 -   [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 -   [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
--   [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
+-   [h - L50 - Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`[✅ done]
 -   [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
 -   [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
 -   [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
