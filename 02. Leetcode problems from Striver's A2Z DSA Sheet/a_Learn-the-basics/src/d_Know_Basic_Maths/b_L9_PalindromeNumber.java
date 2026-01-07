@@ -1,6 +1,6 @@
 package d_Know_Basic_Maths;
 
-public class b_L9_PallindromeNumber {
+public class b_L9_PalindromeNumber {
     public static void main(String[] args) {
         System.out.println(isPalindrome(10));
     }
