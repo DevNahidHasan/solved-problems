@@ -1,6 +1,6 @@
 package e_Learn_Basic_Recursion;
 
-public class a_ValidPalindrome {
+public class a_L125_ValidPalindrome {
     public static void main(String[] args) {
         System.out.println(isPalindrome(""));
     }
