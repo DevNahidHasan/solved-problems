@@ -19,6 +19,6 @@ public class L485_MaxConsecutiveOnes {
                 count += 1;
             }
         }
-        return max > count ? max : count;
+        return Math.max(max, count);
     }
 }
