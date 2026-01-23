@@ -6,6 +6,7 @@ public class L268_MissingNumber {
         System.out.println(missingNumber2(new int[]{9,6,4,2,3,5,7,0,1}));
         System.out.println(missingNumber3(new int[]{9,6,4,2,3,5,7,0,1}));
     }
+    //optimal 1
     public static int missingNumber(int[] nums) {
         int sum = nums.length * ( nums.length + 1) / 2;
         for (int i = 0; i < nums.length; i++){
@@ -13,6 +14,7 @@ public class L268_MissingNumber {
         }
         return sum;
     }
+    //optimal 2 using XOR
     public static int missingNumber2(int[] nums) {
         int xor = 0;
         for (int i = 0; i < nums.length; i++) {
@@ -21,6 +23,7 @@ public class L268_MissingNumber {
         return xor ^ nums.length;
 
     }
+    //optimal 2 using XOR - different approach
     public static int missingNumber3(int[] nums) {
         int xor1 = 0, xor2 = 0;
 
