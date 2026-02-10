@@ -9,9 +9,11 @@ public class L169_MajorityElement {
         int[] arr = {7, 0, 0, 1, 7, 7, 2, 7, 7};
 
         int ans = majorityElement(arr);
+        int ans2 = majorityElement2(arr);
 
         // Print the majority element found
         System.out.println("The majority element is: " + ans);
+        System.out.println("The majority element is: " + ans2);
     }
 
     // Better solution
@@ -45,5 +47,47 @@ public class L169_MajorityElement {
 
         // Return -1 if no majority element is found
         return -1;
+    }
+
+    // Optimal Solution - Moore's Voting Algorithm
+    /*
+       Complexity Analysis-
+       Time Complexity: O(N) + O(N), where N is size of the given array.
+       The first O(N) is to calculate the count and find the expected majority element.
+       The second one is to check if the expected element is the majority one or not.
+
+       Space Complexity: O(1) no extra space used.
+     */
+    public static int majorityElement2(int[] nums) {
+        int n = nums.length;
+        int count = 0;
+        int element = 0;
+
+        //Applying Moore's Voting Algorithm
+        for (int i = 0; i < n; i++){
+            if (count == 0){
+                count = 1;
+                element = nums[i];
+            }else if (element == nums[i]){
+                count++;
+            }else{
+                count--;
+            }
+        }
+
+        /* Checking if the stored element
+         is the majority element*/
+
+        int count1 = 0;
+        for (int i = 0; i < n; i++){
+            if (nums[i] == element){
+                count1++;
+            }
+        }
+        // Return element if it is a majority element
+        // Return -1 if no majority element is found
+        return count1 > n / 2 ? element : -1;
+
+
     }
 }
